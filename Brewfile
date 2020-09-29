@@ -5,6 +5,7 @@ tap "homebrew/core"
 brew "mas"
 brew "yadm"
 brew "youtube-dl"
+cask "firefox"
 cask "syncthing"
 cask "tor-browser"
 mas "1Password", id: 443987910
